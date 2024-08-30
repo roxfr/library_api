@@ -1,0 +1,797 @@
+id;title;author;isbn
+1;Telle mère, tel fils;Nancy Bosson;2-7144-2884-3
+2;L'Homme en quête d'un destin;Albert Delaval;2-7029-0024-0
+3;Toute la gamme;Roland Du Chalard;2-85521-008-9
+4;L'Administration zaïroise;Serge-A. Vieux,...;2-7013-0016-9
+5;Dog story;Hubert de Foucherolles;2-7158-0052-5
+6;Tolérance et libéralisme;Michel Creuzet;2-900395-01-1
+7;Le Temps imaginaire : essai;Roger Gonnet;2-7055-0839-2
+8;Au fil de l'épée;Marilyn Baker;2-7167-0263-2
+9;Margot la soubrette;Robert Lothring;2-7167-0276-4
+10;La Sauvagesse : roman;Jean Canolle;2-7112-0041-8
+11;La Dague empoisonnée;Marilyn Baker;2-7167-0282-9
+12;Symptômes;Alain Klaern;2-7167-0273-X
+13;Bertrand;Robert Lothring;2-7167-0281-0
+14;La Comtesse aux seins nus;Alex Gen;2-7167-0283-7
+15;Une Nuit à Chantamour;Pépé Larista;2-7167-0290-X
+16;La Passagère;Serge Laurac;2-7167-0288-8
+17;Norma Désir. [1];Gérard Néry;2-7112-0233-X
+18;Ahmedgétorix;Lucien Adès;2-268-00003-6
+19;Mon premier yoga;Mariane Kohler...;2-220-02059-2
+20;Le Martyre du Liban;Thierry Desjardins;2-259-00121-1
+21;Diction et expression : exercices et exemples;René Rabault,...;2-7349-0054-8
+22;La Perle de Sitra;Hélène Simart;2-235-00167-X
+23;Menuet pour trois amours;Roberte Roleine;2-235-00205-6
+24;Le Tir aux armes de poing;Jean-Marie Bresson;2-7158-0120-3
+25;De la Manière de s'imposer dans le monde;André Migeot;2-85184-086-X
+26;Le Paquebot des rencontres;Marianne Andrau;2-235-00318-4
+27;Pour l'amour d'un pharaon;Roberte Roleine;2-235-00211-0
+28;Carissima;Jean de Sécary;2-235-00278-1
+29;L'Inquisition médiévale;Jean Guiraud;2-235-00409-1
+30;Nous, les Albigeois;Maurice Gardelle...;2-7089-1861-3
+31;La Corde au cœur;Marie-Louise Assada;2-235-00362-1
+32;Revivre pour toi;Lisa Mercœur;2-235-00364-8
+33;Francesca;Liliane Robin;2-235-00322-2
+34;L'Ouragan;Jean de Sécary;2-235-00450-4
+35;Un Été en Romagne;Caroline Gayet;2-235-00377-X
+36;Samantha;Liliane Robin;2-235-00463-6
+37;Une Étoile dans la main;Lorena;2-235-00202-1
+38;Le Chemin de velours;Léo Dartey;2-235-00316-8
+39;Initiation à la céramique;Jacques Rayez;2-85182-039-7
+40;La Machine à exister;Jean-François Volpert;2-7089-2368-4
+41;C'est pas du boudin;Céruse;2-7167-0538-0
+42;Vint un magicien;Hélène Marval;2-235-00502-0
+43;Comme un souffle brûlant;Suzanne Clausse;2-235-00439-3
+44;Le Médecin de New Orleans;Marianne Andrau;2-235-00504-7
+45;Notre avenir : toute l'Arménie à tous les Arméniens;Hayk;2-902567-03-0
+46;Samantha;Liliane Robin;2-235-00462-8
+47;Carissima;Jean de Sécary;2-235-00279-X
+48;La Serre aux orchidées;Denyse Mai;2-235-00257-9
+49;La Peau du justiciable;Jean Libmann;2-7082-1989-8
+50;La Fontaine scellée;Roberte Roleine;2-235-00568-3
+51;Gestion et finances hospitalières;André Sonrier,...;2-7013-0209-9
+52;Le Piège;Liliane Robin;2-235-00544-6
+53;Les Îles sous la mer;Michel Pignères;2-85119-017-2
+54;Amour interdit;Gil Corthis;2-235-00626-4
+55;Cet homme Jésus;P. Imberdis;2-7041-0301-1
+56;La Justice en Chine;Henri Isaïa,...;2-7178-0136-7
+57;La Dérive immobile;Alain Houziaux;2-7045-0065-7
+58;Qu'ils sont cons, Seigneur !;Céruse;2-7167-0605-0
+59;Les Pigeons du Grand Khon;Céruse;2-7167-0583-6
+60;Ollé, Chantamour !;Pépé Larista;2-7167-0593-3
+61;La Mariée du château noir;Claude Virmonne;2-235-00281-1
+62;L'Irrésistible attirance;Suzanne Clausse;2-235-00320-6
+63;Nuit de mai à Bray-Dunes;Laurent Besse;2-7171-0069-5
+64;La Virilité et ses problèmes;Paul Stanley;2-7158-0180-7
+65;Neige sur un secret;Roberte Roleine;2-235-00668-X
+66;L'Autre rivale;Claude Virmonne;2-235-00389-3
+67;Adorable fléau;Hélène Marval;2-235-00345-1
+68;La Secrète blessure;Jean de Sécary;2-235-00366-4
+69;L'Administration congolaise;Claude C. Pereira,...;2-7013-0222-6
+70;Crise, puissance, perspectives de la sidérurgie mondiale;Benjamin Stora,...;2-7178-0199-5
+71;Sumo;Claude Thibault...;2-85986-008-8
+72;Belle entrouverte;René Charvin;2-7167-0704-9
+73;Chaude éducation;Maurice d'Apinac;2-7167-0705-7
+74;Le Chemin de lumière;Doris Faber;2-235-00868-2
+75;Libéré;William Pelaud;2-7121-0042-5
+76;Mille morts;Pierre Boissonnat;2-86418-060-X
+77;La Pucelle assaillie;Salima;2-7167-0762-6
+78;Démons en jupons;Jeanne Severe;2-7167-0738-3
+79;Le Beau corps de Phœbé;Pierre Lachant;2-7167-0746-4
+80;L'Envoûtée rabatteuse;Harold Spanker;2-7167-0752-9
+81;La Route vers l'inconnu : roman;Jacques Leguèbe;2-7112-0255-0
+82;Cap sur l'amour;Gil Corthis;2-235-00939-5
+83;La Bastide d'amour;Gil Corthis;2-235-00767-8
+84;Le Cavalier de Fontselves;Lisa Mercœur;2-235-00731-7
+85;Un Château pour Carol;Fernand Duplouy;2-235-00764-3
+86;Le Seigneur sauvage;Lorena;2-235-00723-6
+87;Le Bal du chevalier;Roberte Roleine;2-235-00770-8
+88;Verchambray : les léopards affrontés;Michel Dumontier;2-7113-0154-0
+89;Éducation anglaise;Harold Spanker;2-7167-0643-3
+90;Jessica la Fouetteuse;Harry Perhaps;2-7167-0596-8
+91;Le Mystère d'Erbeling;Isabelle Dérieux;2-235-00437-7
+92;La Divine;Nell Pierlain;2-235-00417-2
+93;Le Retour et le chant;Pierre Dhainaut;2-903166-19-6
+94;Anita et la chimère;Magali;2-235-01165-9
+95;Amaryllia : roman;Hélène Abert;2-7112-0410-3
+96;Les Vieilles pierres n'ont pas voulu mourir;Françoise Alis;2-7089-9101-9
+97;La Couverture;Rémi Defer;2-86288-017-5
+98;Les Loups serviles : roman;Henri Boisseau;2-7112-0430-8
+99;Médecine mécanique;A.L. Pécunia;2-224-00667-5
+100;Présence;Michel Vernier;2-901040-15-2
+101;Les Couleurs du rêve;Magali;2-235-012463-9
+102;L'Usurpatrice;Magali;2-235-01273-6
+103;Cet enfant, c'était moi;Henri Héraut;2-86476-023-1
+104;Métaphysique du hasard : essai;Jean Monge;2-7040-0086-7
+105;Gestion et finances hospitalières;André Sonrier,...;2-7013-0026-6
+106;L'Optique : poésie;Ketty Visser...;2-7051-0208-6
+107;Un Visage au bord du Nil;Marianne Andrau;2-235-00086-X
+108;Au clair de ma plume : poésie;Charlie Massalve;2-7051-0244-2
+109;La Seconde chimère;Caroline Gayet;2-235-00159-9
+110;Le Coffret inca;Marie-Louise Assada;2-235-00115-7
+111;Le Voyage en Louisiane;Nell Pierlain;2-235-00127-0
+112;L'Invitée du week-end;Magali;2-235-01440-2
+113;Mirna ou de l'Amour;Finn Gomory;2-86418-158-4
+114;Zoom;Jacques Goulet;2-903992-00-2
+115;La Pétanque : règles et secrets;René Vassas;2-85744-128-2
+116;L'Enfant prodigue;texte de J.-Cl. Melin;2-8034-0280-7
+117;Les Travailleurs de la vigne;texte de J.-Cl. Melin;2-8034-0277-7
+118;Si nous faisions l'humour ensemble;Jacques Viquesnel;2-85480-032-X
+119;Il y a 100 ans, Bugatti;Georges J. Leguillon...;2-7165-0054-1
+120;Ploum l'ourson;texte de Claude Lanssade;2-244-00804-5
+121;L'École buissonnière;texte de Micheline Pipault;2-244-00800-2
+122;Pascal et l'éroticophone;Ugo Solenza;2-7167-1110-0
+123;Le Maître de Floreya;Claude Virmonne;2-235-01456-9
+124;Espérance sans illusions;W. Noack;2-85743-058-2
+125;Adeline et son agneau;Françoise Chapelon;2-244-00810-X
+126;Floc, le raton laveur;Françoise Chapelon;2-244-00796-0
+127;Le Petit train de la forêt;Françoise Chapelon;2-244-00799-5
+128;Trottinet, le caneton;Stéphanie Rhodes;2-244-00798-7
+129;Silhouettes de mort sous la lune blanche;Kââ;2-265-02528-3
+130;La Sexte;Multon;2-268-00302-7
+131;Vagues et remous;Catherine Linden;2-7074-2432-3
+132;Dans l'azur éblouissant;Anne Shore;2-7074-2433-1
+133;Le Fabricant de chimères;Caroline Stafford;2-7074-1432-8
+134;Le Château des soupirs;Vanessa Blake;2-7074-3489-2
+135;Bons baisers du paradis;Jacqueline Hacsi;2-7074-3488-4
+136;Sonate d'amour;Marlene Perriche;2-7074-4152-X
+137;Dites-moi pourquoi;Flora Kidd;2-280-00004-0
+138;Cueillir la vie;Kerry Allyne;2-280-00079-2
+139;L'Égarée des songes;Alysse Lemery;2-280-09021-X
+140;Le Gang des postiches;Georges Pierquin;2-259-01199-3
+141;Mille feux scintillants;Sandra Brown;2-258-01321-6
+142;Orages sur Savannah;Becky Combs;2-258-01405-0
+143;La Promesse des tropiques;Helen Conrad;2-258-01333-X
+144;La Nuit aux reflets d'or;Joan J. Domning;2-258-01379-8
+145;Le Piège du chasseur;Joan J. Domning;2-258-01378-X
+146;Tempête au lac de Pfarr;Joan J. Domning;2-258-01408-5
+147;Étrange ivresse;Billie Green;2-258-01332-1
+148;Amoureux vertige;Iris Johansen;2-258-01433-6
+149;La Ballade de Rory;Iris Johansen;2-258-01410-7
+150;Les Cœurs ensorcelés;Iris Johansen;2-258-01380-1
+151;Noces brisées;Helen Mittermeyer;2-258-01322-4
+152;Sous les étoiles de Saratoga;Helen Mittermeyer;2-258-01390-9
+153;Entre l'amour et l'orgueil;Carla Neggers;2-258-01330-5
+154;Quand l'amour tient à un fil;Carla Neggers;2-258-01404-2
+155;Flammes d'automne sur les Andes;Sara Orwig;2-258-01402-6
+156;Flammes d'argent;Fayrene Preston;2-258-01324-0
+157;Tous les parfums de Martinique;Fayrene Preston;2-258-01403-4
+158;Nord;Thierry Lassalle;2-265-02777-6
+159;Les Félins-mystère;Jean-Louis Brodu, Michel Meurger;2-904776-01-X
+160;S.O.S. Nicaragua;Hugues Kéraly;2-85652-074-X
+161;L'Empereur de Worad;Jeffrey Lord;2-259-01196-9
+162;Les Hordes du grand océan;Jeffrey Lord;2-259-01223-X
+163;Les Mangeurs d'hommes d'Iletrois;Jeffrey Lord;2-259-01121-7
+164;Classé X;Joe Gash;2-258-01442-5
+165;À la conquête du bonheur;Nancy Holder;2-258-01471-9
+166;Le Plus beau spectacle du monde;Nancy Holder;2-258-01448-4
+167;Ouragans sous la neige;Kay Hooper;2-258-01492-1
+168;Un Coin de paradis;Iris Johansen;2-258-01516-2
+169;L'Orient des désirs;Iris Johansen;2-258-01473-5
+170;Une Nouvelle vie commence;Carla Neggers;2-258-01474-3
+171;La Sauvageonne;Fayrene Preston;2-258-01517-0
+172;Biologie de l'idéologie;Yves Christen;2-86804-058-7
+173;Opération suicide;Nick Carter;2-258-01312-7
+174;La Déesse du Kama-Soutra;Martin Connors;2-259-01211-6
+175;L'Amour parfait;Alain Klaern;2-7167-1284-0
+176;Les Descendants des maîtres du ciel;Jeffrey Lord;2-259-00969-7
+177;La Forêt carnivore de Jaghd;Jeffrey Lord;2-259-00958-1
+178;Les Légions de Korum;Jeffrey Lord;2-259-01251-5
+179;Guerres froides;Schultheiss;2-226-02219-8
+180;Une Balle suffit;Paul Vence;2-259-01238-8
+181;Corrida pour un espion;Paul Vence;2-259-01212-4
+182;Exécution à New Orleans;Paul Vence;2-259-01141-1
+183;L'Œil de Moscou;Paul Vence;2-259-01187-X
+184;Plan Galilée;Paul Vence;2-259-00982-4
+185;Sang et mort au Guatemala;Axel Kilgore;2-259-01176-4
+186;L'Émeraude de Jokkun;Jeffrey Lord;2-259-01265-5
+187;Le Cœur aimé;Michel Ezanno;2-7055-1071-0
+188;La Fièvre au cœur;Jennifer Blake;2-86928-401-2
+189;Burt Lancaster;Robert Windeler;2-7048-0420-6
+190;La Fiancée du Grand Nord;Martin Connors;2-259-01264-1
+191;Les Soucis de Si-Siou;Gérard de Villiers;2-268-00372-8
+192;Lettres à Madam';Xaviera Xollander;2-253-03646-3
+193;Envoûtée par Morgan;Sara Orwig;2-258-01543-X
+194;Des Nuits ensoleillées;Sara Orwig;2-258-01602-9
+195;La Mort en sommeil;Georges Pierquin;2-259-01261-2
+196;Dans l'ombre de Bonaparte;Claude Combel;2-7050-0378-9
+197;Les Veuves de Saint-Aubry;Hugues Morin;2-268-00384-1
+198;Jadis, une lune de miel;Fayrene Preston;2-258-01541-3
+208;Le Cauchemar commence;Jerry Ahern;2-259-01337-6
+209;L'Escadron de fer;Jerry Ahern;2-259-01343-0
+210;Les Zombies de Vikka;Jeffrey Lord;2-259-01341-4
+211;Figures de silence;Bernard Simeone;2-903460-07-8
+213;Le Charme et la beauté du fer blanc;par l'abbé Paul Bidault;2-7072-0102-2
+214;L'Oasis des rites interdits;Martin Connors;2-259-01305-8
+215;Mystère et séduction;Helen Conrad;2-258-01641-X
+216;Mademoiselle Lapin au soleil;Linda Hayward, ill. de Lucinda McQueen;2-261-01654-9
+217;Les Ondes de l'amour;Deborah Kent;2-86804-171-1
+220;L'Ange du jazz;Paul Pines;2-268-00375-2
+221;Un Envol de papillons;Joan Elliot Pickart;2-258-01605-3
+222;Black-out;Antoine Ristori;2-901367-46-1
+223;Ersatz d'éternité;Guy Onfray d'Amanville;2-904951-02-04
+224;Caramel sous la pluie;[texte de Linda Hayward, dessins de Lucinda McQueen];2-261-01652-2
+225;Toufou l'ébouriffé;[texte de Linda Hayward, dessins de Lucinda McQueen];2-261-01651-4
+226;Les Menottes;Octavio Ribeiro;2-86804-196-4
+227;Le Spécialiste;Magnus;2-226-02565-0
+228;Voluptés birmanes;Martin Connors;2-259-01376-7
+229;L'Ambassadrice des Khuns;Jeffrey Lord;2-259-01373-2
+230;Le Prophète fou de Dryden;Jeffrey Lord;2-259-01386-4
+231;Pierre Bichet;Roland Bouhéret;2-901040-43-8
+232;Les Amazones du Nil blanc;Martin Connors;2-259-01388-0
+233;Difficile rencontre;François Chirpaz;2-204-01900-3
+234;Vers l'an 3000;Israël Fliegelman;2-86476-115-7
+235;Techniques de construction des abris J;Jacques Bellini;2-88227-038-6
+236;Dolmens et menhirs de Provence;Daniel Riba;2-86410-050-9
+237;Promenades à thème géologique dans les Maures et l'Esterel;Jacqueline Romain;2-86410-058-4
+238;Lénine à l'usine : principes de la subversion, application à l'entreprise;Serge Bakou;2-90508-606-8
+239;La Principauté de Monaco;Christian Yves-Marie Kerboul;2-85882-426-6
+240;Birlic;Camillo Osorovitz;2-7045-0151-3
+241;Boboc;Camillo Osorovitz;2-7045-0149-1
+242;Les Vacances agitées du docteur Larron;Dodero Stone;2-86418-145-2
+243;Des Fourneaux modernes pour tous;Waclaw Micuta;2-85744-186-X
+244;Les Clefs du Pérou;Pierre Grundmann;2-903198-26-8
+245;Le Canard;[Stephen Cartwright et claudia Zeff];2-261-01155-5
+246;Le carnaval aux antilles;Marie-Thérèse Julien-Lung Fou;2-85275-100-3
+247;L.Homme, mémoire de l'univers;Luis Ansa;2-903-403-11-2
+248;L'Information;[René Augé];2-242-00060-8
+249;Les Mystiques hindous-chrétiens : 1830-1967;Maurice Maupilier;2-86839-029-3
+250;ABC de la chasse sous-marine;Ely Boissin;2-85182-180-6
+251;Les Jours d'Angles;Monique Leyssène, Michel Valière;2-86253-048-4
+252;La Restauration des objets anciens;François Sigaléa;2-7013-0390-7
+253;Charles le Chauve;Paul Zumthor;2-235-01011-3
+254;La Vie de Candy : album;texte de Valérie Fert...;2-26101115-6
+255;Ninon de Lenclos;Lella Arnaud;2-86647-011-7
+256;La Dame aux camélias;Maurice Rat;2-86647-014-1
+257;Plup et le soleil de minuit;Inga borg;2-705-0437-8
+258;Amélia garde-malade;Ariane Sandeau;2-903868-02-6
+259;Maisons;[Gillian Youldon];2-7130-0503-5
+260;Cuisine périgourdine;texte d'Henriette Lasnet de Lanty...;2-215-00584-X
+261;Fort Daluc : jouet à construire en bois, c'est super;Pierre Berjoan;2-904936-00-9
+262;Le Jardin du bonheur : Entre ciel et terre;Dr Wolfgang von Haller;2-7029-0113-1
+263;Mathias, le sorcier : C.M. 1;A. Philibert;2-200-01093-1
+264;Marilyn chérie;Michael Del Mar;2-902259-04-2
+265;A toi de gagner;Patrick Gonneau...;2-21806417-0
+266;La Géomancie;Catherine Aubier;2-86676-091-3
+267;La Maison des prés;texte de Claude Lanssade;2-244-00895-9
+268;L'Été à la campagne;texte de Marie-Paule Armand;2-244-00897-5
+269;Les Joies de la plage;texte de Claude Lanssade;2-244-00896-7
+270;Le Poisson;Pierre Fassel, ill. Fabienne Martin;2-244-23123-5
+271;Le Kangourou;Pierre Fassel, ill. Fabienne Martin;2-244-23120-4
+272;Les Insectes;Pierre Fassel, ill. Fabienne Martin;2-244-23119-8
+273;La Sexualité de l'enfant;Marie-Thérèse Melo...;2-89039-861-7
+274;Le mobilier aquitain, périgourdin et landais;par Lucile Olivier;2-70720072-7
+275;Asper le fantôme;texte Georges Berton...;2-24424111-1
+276;Benoît le cosmonaute;texte Georges Berton...;2-24424112-8
+277;L'Anniversaire de Rémy;texte Claude Lanssade;2-24424110-4
+278;Le Tapis volant;texte Stéphanie Rhodes...;2-24424109-8
+279;Le Pater : prière du dernier soir et des premiers matins;François-Marie Braun;2-85443-027-1
+280;Points d'eau;textes de Marcel Driot;2-7122-0087-X
+281;L'Arche de Noé;Gertrud Fussenegger...;3219-10206-3
+282;Cet homme Jésus;Pierre Imberdis;2-7041-0305-4
+283;Omraam Mikhaël Aïvanhov le maître de la Grande fraternité blanche universelle;Agnès Lejbowicz;2-85566-180-3
+284;Le Songe de Olav Åsteson;Dan Lindholm...;2-903644-01-2
+285;Transparences : méditations, réflexions, prières;Marcel Lorgeou;2-7289-0078-7
+286;Astuces de rangement;Sophie Moutiers;2-7072-0070-0
+287;Bien éclairer son intérieur;Sophie Moutiers;2-7072-0069-7
+288;Initiation théologique à l'usage des laïcs;Mgr B. de Solages;2-86586-1
+289;Le Phare magique du docteur Larron;Dodero Stone;2-86418-127-4
+290;Buerschtele et Frätzele......;texte de Robert Werner...;2-7165-0058-4
+291;Le Test des étoiles et des vagues...;Ursula Avé Lallemant.;2-902656-02-5
+292;Dès la première enfance...;Pierre Caillon.;2-85244-444-5
+293;Trois études exploratoires sur d'éventuelles liaisons entre la date de naissance, le caractère et la réussite professionnelle;Noël Decourt;2-85340-327-0
+294;Comprendre et utiliser ses rêves;Georges Dreams;2-86-874-005-X
+295;Retour aux sources : pèlerinage en Terre sainte;Albert Olivau, Michel Du Buit;2-89039-762-9
+296;Le Mutus liber parle...;par Oscar Uzcategui.;2-904097-04-X
+297;Vert est le bois;Roger Boutefeu;2-86701-027-6
+298;Dis-moi qui est Jésus ?;Hervé Dominique...;2-7041-0105-1
+299;Une Représentation de l'économie pour votre temps;Jacques Le Muet;2-904814-00-0
+300;Peut-on vivre sans mentir ?;Claude Grandclément;2-9500318-03
+301;Magellan;Daniel Grolleau;2-9500391-03
+302;Prolégomènes à une axiomatique de l'espace des consciences;F. Jaulin-Mannoni;2-904430008
+303;La Cité engloutie : scénario pour jeux de rôles médiévaux et fantastiques;José Lanchas;2-904890-04-1
+304;Eros 1900;Eva Lyle;2-268-00271-3
+305;La Publicité des imprimeurs et reprographes aux U.S.A.;[Jean-François Mercier];2-86868-0003
+306;Sud : trente huit textes;de Bernard Piris...;2-86677-021-3
+307;Réaliser l'espérance;Yvonne Sée;2-9500409
+308;Un Compositeur aujourd'hui, Max Pinchard;Joël-Marie Fauquet, Élisabeth Besnard, Guillemette Bouchel, Christian Goubault;2-86476-090-8
+309;Rituel Vaudou du feu et des chandelles magiques;Jacques Bersez;2-900272-71-8
+310;L'Écriture cursive moderne pour tous;André Casteilla;2-7135-0414-7
+311;La Vie voyagère conversante avec le prochain;Lorraine Caza, C.N.D;2-20401991-7
+312;L'Escapade verticale;Max Delespesse;2-86819-006-5
+313;Le Sang et la lumière...;Didier Giroud-Piffoz.;2-903894-00-0
+314;les Trois motards et le rallye truqué : dossier pédagogique;Georges Greffier;2-20001097-4
+315;Approche des dieux;Jacus;2-9500521-0-X
+316;Soixante ans de livres d'aviation 1910-1970 : contribution à la bibliographie du livre français d'aéronautique...;Jacques Sorbets;2-9500-379-09
+317;Les Lois de la liberté : libéral et croyant pourquoi ?;Raoul Audouin;2-86752-008-8
+318;Le Téléphone : la souris et le fromage;Pierre Fassel;2-24400778-2
+319;Meurtre au British Museum;J.B. Livingstone;2-268-00310-8
+320;L'Enseignement du français aux populations immigrées : une problématique particulière;Hélène Milet;2-902-89506-2
+321;7 techniques de créativité;Bernard Demory;2-7127-0152-6
+322;Vendez plus, accueillez mieux;Gilbert Rozès;2-7127-0151-8
+323;Le Choix idéal;Barbara Boswell;2-258-01572-3
+325;Les Plaisirs de Bornéo;Martin Connors;2-259-01338-4
+327;La Bohémienne au long cours;Joan J. Domning;2-258-01580-4
+328;L'Homme d'à côté;Kathleen Downes;2-258-01577-4
+329;Les Adorateurs de Dschubba;Jeffrey Lord;2-259-01170-5
+330;Le Jardin coloré;Helen Mittermeyer;2-258-01575-8
+331;Le Rose et le noir;Nil;2-86804-120-4
+332;Les Camions de la mort;Paul Vence;2-259-01339-2
+333;Mourir à Palerme;Paul Vence;2-259-01320-1
+334;Psalmodies;Charles Singer;2-215-00843-1
+335;Les Must de Ferrari;Fabien Sabatès;2-7072-0108-1
+336;Les Must de Jaguar;Fabien Sabatès;2-7073-0111-1
+337;Les Must de Porsche;Fabien Sabatès;2-7072-0110-3
+338;Les Silences de l'aube;Éliane Aubert;2-86804-291-0
+339;Enlève-moi ça tout de suite;Chine;2-86804-284-8
+340;Le Tablier d'humilité;Louis Costel;2-220-02529-2
+341;Les Croisés de l'ombre;Gérald Moreau;2-86804-270-8
+342;Les Kamikazes de Zaoudja;Paul Vence;2-259-01370-8
+343;Poker à Prague;Paul Vence;2-259-01387-2
+344;Dois-je le quitter ?;Charlotte White;2-86804-124-7
+345;Maria Lagorio;Marina Grey;2-86433-009-1
+346;Objectif cœur;Joan Bramsch;2-258-01760-2
+347;L'École des amants;Kathleen Downes;2-258-01761-0
+348;Six mecs au Mexique;Georges Pierquin;2-259-01470-4
+349;Village des sortilèges;Kimberli Wagner;2-258-01762-9
+350;Forissier;Sadi De Gorter;2-85047-083-X
+351;Le Fief de Cipang'ho;Jeffrey Lord;2-259-01397-X
+354;Coluche, adieu;Charles Drangos;2-86804-301-1
+355;L'Ambitieux;Paul Wermus;2-86804-295-3
+356;Surprise dans la nuit;Kay Hooper;2-258-01765-3
+357;Les Dix commandements de la réussite;Alain Damecour;2-950110-40-1
+358;Fantasmes;André Amet;2-7167-1292-1
+359;Bons baisers des Cyclades;Alain Klaern;2-7167-1294-8
+360;Fleurs de femmes;Liane Mery;2-7167-1291-3
+361;Le Piège des illusions;Luc Sandro;2-7167-1293-X
+362;Les Sorciers du Mali;Martin Connors;2-259-01457-7
+363;Une Vierge pour le soleil;Martin Connors;2-259-01476-3
+364;Les Prêtres-rois de Tarkos;Jeffrey Lord;2-259-01472-0
+365;Soudain, l'amour;Sara Orwig;2-258-01796-3
+366;Danse macabre à Belgrade;Gérard de Villiers;2-259-01466-6
+367;Knock-out au Québec;Paul Vence;2-259-01460-7
+368;Édouard Manet;Pierre Courthion;2-86901-000-1
+369;Poésie-concept;Almadin;2-903412-03-0
+370;La Cuisine pied-noir rituelle et diététique;Dr Agnès Amsellem;2-7340-0141-1
+371;Pays clos;Michel Valprémy;2-85675-128-6
+372;Art = +;J. P. Jornod;2-86808-009-1
+373;Enfer cannibale;Jerry Ahern;2-259-01510-7
+374;Les Berserkers du pays rouge;Jeffrey Lord;2-259-01500-X
+375;Les Hordes de pierre;Jeffrey Lord;2-259-01556-5
+376;Les Malheurs de Sophia;Georges Pierquin;2-259-01499-2
+377;Erasmus magister;Charles Sheffield;2-7340-0142-X
+378;L'Almanach des animaux;Xavier Pasquini;2-86804-308-9
+379;Maisouetdoncornicar;Robert Besse;2-243-02763-1
+380;Diptyque;André Druelle;2-85480-112-1
+381;Ardente victoire;Barbara Boswell;2-258-01838-2
+382;L'Invité du matin;Sandra Brown;2-258-01837-4
+383;Les Orgies des Indiens blancs;Martin Connors;2-259-01498-4
+384;Le Destin n'attend pas;Nancy Holder;2-258-01869-2
+385;Au cœur chaud de l'étoile;Loriola;2-86476-229-3
+386;Les Moines pervers de Bombay;Martin Connors;2-259-01557-3
+387;Poulets à la coke;Georges Pierquin;2-259-01559
+388;Histoire de Abou qui était tout noir et ne le savait pas;Hervé Labori;2-905603-02-X
+389;Mascarades;Hervé Labori;2-905603-01-1
+390;Prise d'otages;Axel Kilgore;2-259-01565-4
+391;Les Amis d'Œdipe...;de Camille Belliard.;2-7121-0119-7
+392;Belle ou l'amour à trois;René Charvin;2-7167-0923-8
+393;La Bourse : stratégies d'investissement;Guy Desbrosses;2-905665-19-X
+394;Libertés, état de droit;Béatrice de Beaupuis, alexandre Bennakhlouf, Vincent Gorini, Yves Rocca;2-90508608-4
+395;Mephista;Maurice Limat;2-7345-0023-X
+396;Éducation et développement : stratégies et décisions en Amérique Centrale;Sylvain Lourié...;2-71780889-2
+397;De filles en aiguilles;Freuda Mour;2-7050-0372-X
+398;Fée des bois;par Cicely Mary Barker;2-261-01293-4
+399;Fée des jardins;par Cicely Mary Barker;2-261-01294-2
+400;Complot contre Brejnev;Roger Mauge;2-259-00931-X
+401;Lumière cendrée;Jean-Michel Béquié;2-86746-025-5
+402;Laetitia en hiver;Ewelyn Ruppert;2-86804-317-8
+403;Le Mystère des petits lavoirs;Nicole Buffetaut;2-213-01883-9
+404;Le Jour et la nuit;Patt Bucheister;2-258-01892-7
+405;Les Fugitifs;Fayrene Preston;2-256-01893-5
+406;Quelques flèches pour Cupidon;Pierre Boyer;2-7055-1081-8
+407;L'Évangile à l'hôpital;Jacques Piquet;2-220-02630-2
+408;Sentiments d'infini;Fabienne Ghesquière;2-905094-09-5
+409;Est-il déjà si tard ?;Antoine Trémolières;2-905094-08-7
+410;Terreur sur Manhattan;Jerry Ahern;2-259-01567-0
+411;L'Homme du grand large;Joan Bramsch;2-258-01886-2
+413;Les Clefs de Fontigny;Paul Kinnet;2-87951-168-2
+414;Les Jeux olympiques;Claude Chollet;2-906430-00-5
+416;Un Printemps en hiver;Iris Johansen;2-258-01921-4
+418;Meurtre sur cartes postales;Jean-Charles;2-950154-00-X
+419;Les Damnées;Jerry Ahern;2-259-01592-1
+420;Sierra commando;Jerry Ahern;2-259-01606-5
+421;Paris, Sabrina;Peter Ollisson;2-86391-190-2
+422;Et l'herbe reverdira;Sara Orwig;2-258-01917-6
+423;Une Saison bleue;Fayrene Preston;2-258-01915-X
+424;Howard Hughes;Harry Dulman;2-86804-342-9
+425;Les Amis de Monsieur Paul;Suzanne Prou;2-07-037807-1
+426;Le Chien de berger allemand;R. Blineau,...;2-85182-210-1
+427;Le Cri de l'épervier;Jerry Ahern;2-259-01369-4
+428;Drôle de drague;Georges Pierquin;2-259-01391-0
+429;Pour cent millions;Jean-Michel Guenassia;2-86746-019-0
+430;La Der des ders;Norman Spinrad;2-258-01662-2
+431;Le Mandarin;Alain Thiéry;2-86804-273-2
+432;Celle qui lisait l'avenir;Barbara Boswell;2-258-01684-3
+433;Sept petits amours;Barbara Boswell;2-258-01736-X
+434;Pour défier le destin;Joan Bramsch;2-258-01733-5
+435;Le Comte du Wisconsin;Billie Green;2-258-01681-9
+436;Les Murmures du Pacifique;Nancy Holder;2-258-01683-5
+437;L'Amour en satin blanc;Iris Johansen;2-258-01680-0
+438;Charade;Joan Elliott Pickart;2-258-01679-7
+439;Poèmes;Léon Degrelle;2-906026-00-X
+440;Les Hommes-jaguars;Jerry Ahern;2-259-01398-8
+442;Le Bavard;Baciliero;2-226-03169-3
+443;Pensées et poèmes;A. Y. Izaute,...;2-907055-04-6
+444;Sauts de puce au Nouveau monde : récit;Joseph Charles Doumba;2-7087-0495-8
+445;Billie la mémoire;Yves Ranc;2-86804-498-0
+446;Malvaison : roman;Pascal Moresby;2-86804-504-9
+447;Sombres, dans la ville où elles se taisent;Michèle-Marie Denor;2-903945-24-3
+448;Recherche d'un humanisme authentique;P. Grand;2-9502584-0-9
+449;La Sauvagine. 1;Pierre Saurat;2-86804-570-7
+450;Marie-Sophie, l'enfant qui rêvait;Cécile Moncourt;2-907055-05-4
+451;La Cinquième roue;Michel Seuphor;2-904595-14-7
+452;Doctrine. 2;René de Droite;2-9501070-3-6
+453;La Moitié de l'autre;Catherine Pearce;2-86366-089-6
+454;Ève croqua la pomme;Jacqueline Veschambre-Kimmich;2-86366-054-3
+455;Les Tourmenteurs;Zeb Chillicothe;2-259-01587-5
+456;Les Captives du Gabon;Martin Connors;2-259-01575-1
+457;Les Chasses sanglantes d'Hokkaïdo;Martin Connors;2-259-01601-4
+458;Le Combat des magiciens;Jeffrey Lord;2-259-01596-4
+459;L'Envoyé de Mictan;Jeffrey Lord;2-259-01586-7
+460;Les Aigles d'Égletons;Georges Pierquin;2-259-01589-1
+461;Pourquoi tuer un malabar ?;Georges Pierquin;2-259-01633-2
+462;Au grand jamais;Iris Johansen;2-258-01999-0
+463;Le Complot des Sin'Kas;Jeffrey Lord;2-259-01634-0
+464;Le Bel aventurier;Sacha Reims;2-86804-241-3
+465;Alerte sur le rideau de fer;Paul Vence;2-259-01571-9
+466;L'Espion qui venait de loin;Paul Vence;2-259-01512-3
+467;Menace sur Honolulu;Paul Vence;2-259-01513-1
+468;La Mort de la taupe;Paul Vence;2-259-01603-0
+469;La Source et l'aube : essai;Sylvie Marsal;2-86913-007-4
+470;Assaut;Jerry Ahern;2-259-01636-7
+471;Le Vagabond du ciel;Millie Grey;2-258-01983-4
+472;Au temps de la valse;Nancy Holder;2-258-01998-2
+473;Scénario sanglant;Alexandre Scorcia;2-259-01631-6
+474;Fièvres à Paramaribo;Paul Vence;2-259-01637-5
+475;Embrouilles à Panama;Gérard de Villiers;2-259-01573-5
+476;La Madone de Stockholm;Gérard de Villiers;2-259-01604-9
+477;L'Ange de Donovan;Peggy Webb;2-258-01982-6
+478;Cette année-là en Allemagne;Henria Balguerie;2-904201-10-6
+479;Triplées à la carte;Barbara Boswell;2-258-01981-8
+480;La Sentence de l'amour;Kathleen Creighton;2-258-01978-8
+481;On va tuer Josepha;Alexandre Scorcia;2-259-01594-8
+482;Les Croisés;David Whitaker;2-734-00204-3
+483;Le Prix du sang;D. B. Drumm;2-258-01749-1
+484;Perverse Nicole;Jules Riquier;2-7340-0205-1
+485;Lames;Joëlle Marion;2-906095-07-9
+486;Je fais main basse sur les diams des Papous;Philip Whale;2-259-01630-8
+487;Mon arnaque sur l'or de Guyane;Philip Whale;2-259-01671-5
+488;Je ne l'ai pas dit dans les journaux;Philippe Bouvard;2-86804-391-7
+489;Vers le mieux et le bonheur;Yves Rossière;2-950203-8
+490;Descente aux enfers;comtesse Alexandra;2-259-01668-5
+491;Experte haut de gamme;Kathleen Downes;2-258-02029-8
+492;Pour toujours;Iris Johansen;2-258-02030-1
+493;L'Esclave;Hector Remington;2-7340-0207-8
+494;Duplicité;Peggy Webb;2-258-02021-2
+496;Festin de crabes;Gérard Delteil;2-86746-033-6
+497;Meurtre à Cambridge;J.B. Livingstone;2-268-00542-9
+498;Une Grande fille craintive;Kathleen Creighton;2-258-02068-9
+499;Le Gang des puces;Jean-Louis Le Breton;2-904662-08-1
+500;L'Autre-roi ou la Religion fraternelle;Guy Lafon;2-85313-124-5
+501;La Séduction est leur métier;Françoise Ganjour;2-86804-433-6
+502;La Société consensuelle est pour demain;Jean-Yves Honinato;2-906567-02-7
+503;BMW;Fabien Sabatès;2-7072-0125-1
+504;Par les chemins de la poèmeraie : guide d'incitation poétique;Jacques Gaudichon;2-86630-032-7
+505;Le Crépuscule et la soif;René Balme;2-906095-09-5
+506;Filière pakistanaise;Axel Kilgore;2-25901825-4
+507;Péril au Brésil;Axel Kilgore;2-259-01807-6
+508;Les Séquestrés de Rhiva;Jeffrey Lord;2-259-01680-4
+509;Le Traître du Jehol;Jeffrey Lord;2-259-01813-0
+510;Je confisque le magot des châtreurs de Bombay;Philip Whale;2-259-01827-0
+511;Je mets les macs d'Abdidjan à l'amende;Philip Whale;2-259-01804-1
+512;Noos : la naissance à l'Esprit;par Jean Hoyoux;2-903657-13-0
+513;Permanence du scoutisme;Jean-Pierre Normand;2-85443-166-9
+514;Négociez et vendez;Lionel Bellenger;2-7127-0221-2
+515;Animez votre équipe;Gérard Chandezon;2-7127-0222-0
+516;Intégrez votre nouveau personnel;Christophe Lunacek;2-7127-0235-2
+517;Haute trahison;Jerry Ahezn;2-259-01815-7
+518;La Nuit des saboteurs;Jerry Ahezn;2-259-01802-5
+519;Côté lumière;Alexandra Piers;2-904616-02-0
+520;Yann des Étoiles : ou la Genèse du grand retour;Gérard Montreux;2-907207-00-8
+521;Formule champion;par Véronique Skawinska;2-85565-385-1
+522;D'où vient le pain ?;[Suzanne Gauder];2-8034-1568-2
+523;Comment sauver sa peau en toutes circonstances;Marie-Laure Winkler;2-85209-034-1
+524;Faut-il tuer 2 500 000 chômeurs ?;Jean Kerchbron;2-268-00533-X
+525;Au cœur du sujet : la théorie de l'instance et des cohérences;Roger Nifle;2-86888-007-X
+526;L'Eau-de-vie de Dantzig;Alexandre Scorcia;2-259-01812-2
+527;Quand le silence explose;Alexandre Scorcia;2-259-01677-4
+528;Qui a peur du grand méchant jeune ?;Philippe de Largillière;2-85743-115-5
+529;Reportages;Hippolyte Romain;2-905538-05-8
+530;La Science-fiction est-elle subversive ?;André Delaporte;2-905086-07-6
+531;Légitimisme et catholicité;Francis Dallais;2-86558-011-3
+532;Rumeur du jusant;Ivan Nikitine;2-85675-0136-6
+533;Ballast n° 5 : nouvelles fantastiques;Josyane Vaccari;2-906352-02-0
+534;Déchirures : poèmes;François Plot;2-85443-167-7
+535;Libre entreprise et socialismes;Lucien Pfeiffer;2-86418-284-X
+536;Cuisine en fête;Nicole Latour;2-87677-048-2
+537;La Bourse, mécanismes et stratégies. 1;Desbrosses;2-905665-01-7
+538;La Bourse, mécanismes et stratégies. 2;Desbrosses;2-905665-02-5
+539;La Bourse, mécanismes et stratégies. 3;Desbrosses;2-905665-03-3
+540;La Bourse, mécanismes et stratégies. 4;Desbrosses;2-905665-04-1
+541;La Bourse, mécanismes et stratégies. 5;Desbrosses;2-905665-05-X
+542;La Bourse, mécanismes et stratégies. 6;Desbrosses;2-905665-06-8
+543;La Bourse, mécanismes et stratégies. 7;Desbrosses;2-905665-07-6
+544;La Bourse, mécanismes et stratégies. 8;Desbrosses;2-905665-08-4
+545;La Bourse, mécanismes et stratégies. 9;Desbrosses;2-905665-09-2
+546;La Bourse, mécanismes et stratégies. 10;Desbrosses;2-905665-10-6
+547;La Bourse, mécanismes et stratégies. 11;Desbrosses;2-905665-11-4
+548;La Bourse, mécanismes et stratégies. 12;Desbrosses;2-905665-12-2
+549;La Bourse, mécanismes et stratégies. 13;Desbrosses;2-905665-13-0
+550;La Bourse, mécanismes et stratégies. 14;Desbrosses;2-905665-14-9
+551;La Bourse, mécanismes et stratégies. 15;Desbrosses;2-905665-15-7
+552;La Primitive;Chantal Peugny;2-907365-01-0
+553;Redevenir dieu : additif à l'ouvrage initial;Grégoire Jauvais,...;2-904462-10-4
+554;Histoire de mouette;D. Banjo;2-907055-08-9
+555;Mécénat mode d'emploi;Etienne Caveyrac;2-907735-00-4
+556;La Couleur du miroir;Henri Constanciel;2-906095-15-X
+557;Histoire de Mouette;D. Banjo;2-907055-09-7
+558;La Main du diable;Louis Costel;2-220-02736-8
+559;À consommer avec modération;Cabu;2-226-03554-7
+560;Les Meilleures histoires drôles du monde entier;Léon Van Chitrouflet;2-86804-621-5
+561;La Divine mesure;Hiulé;2-86736-011-6
+562;L'Enfant oublié;D. Banjo;2-907055-10-0
+563;Pièces détachées;Jean-Claude Silbermann;2-907876-01-5
+564;Mercedes Benz;Fabien Sabatès;2-7072-0140-5
+565;Les Punitions de Dédé;André-Louis Auget;2-86885-020-0
+566;Premières jouissances;Donna Steel;2-7386-0051-4
+567;La Cuisine de là-bas;Alain Vircondelet;2-86665-096-4
+568;Instants;Jacqueline Didier;2-907530-01-1
+569;Entendez-vous le sang des enfants morts;Terranova;2-9503665-0-3
+570;L'Enfant de la montagne;Robert Deshors;2-85521-086-0
+571;Akhenaton ou la Véritable identité de Moïse et d' Oedipe;Zénon Kelper;2-907878-10-7
+572;L' Émasogue : encyclopédie guide;Pascal Bleton;2-907844-02-4
+573;La Véritable puissance;William Bethuell;2-9504170-0-0
+574;Dires du fou;Armand Monjo;2-87744-037-0
+575;La Doctrine de la guerre juste;Guillaume Bacot;2-7178-1746-8
+576;Matrix : modélisation psychanalytique de lois régulatrices de la génétique cellulaire;Lydia Torasi;2-907878-11-5
+577;L' Air de rien;Didier Fontana;2-86885-026-X
+578;Croquis américains;Quentin Ferrard;2-906843-07-5
+579;Pensées buissonnières;Henri Fesquet;2-220-03126-8
+580;Cristaux et arcs-en-ciel;par Jay Steinberg;2-905219-23-8
+581;Tigres volants contre zéros;Slocombe;2-226-03732-2
+582;Un Regard créatif;Michel Lafeuille;2-7127-0328-6
+583;Mémoires de Titus Abbius;Philippe Lacroix;2-9504528-0-9
+584;L'Ami du tabac : [description théorique des jeux Milarépa];Marc Jutier;2-86352
+585;Le Manuscrit;Geneviève Gennari;2-268-00812-6
+586;5 conférences;L. Bercou;2-908431-04-1
+587;Un Sous-marin sans équipage : roman;Alex Wassilieff;2-268-00863-0
+588;Le Bal des innocents;Maurice Périsset;2-268-00966-1
+589;Comment plaire ? : votre beauté du visage... des cheveux...;Daniel Jacquier;2-9501112-8-9
+590;Mjra-Bella;Lena Monnerot;2-908610-02-7
+591;Valadié;Emmanuelle Arsan;2-87736-002-4
+592;L'été éclaté;Inès de Kertanguy;2-268-00-747-2
+593;La noce de tonton Gène : Vendée des années folles;René Debien;2-86913-035-x
+594;L'île des Meobs;J. Ph. Arbez;2-905634-07-3
+595;La grande dune;Madeleine Coudray;2-268-01063-5
+596;Mémoires folles;Marie-Lise Priouret;2-907922-10-6
+597;Arbre-Loup;Michel Cosem;2-211-57220-0
+598;Paroles du matin clair;Jocelyn Curtil;2-211-57231-6
+599;Le prix du sang : roman;José Piérotti...;2-95071-1-4
+600;Oncle Zach;Robert Soulat;2-268-00990-4
+601;Eve, la gâcheuse;Yvonne Biaggi-Chanac;2-85529-007-4
+602;Souvenirs de là-bas et d'ici;Yannick Asselin;2-908425-08-4
+603;Le livre de Ganga;Bernadette Dupin;2-906622-04-4
+604;Eclat de jour : poèmes;Colette Jarjavay;2-9505781-1-X
+605;Tourbillons;Colette Jarjavay;2-9505781-0-1
+606;Pierre qui roule;Célia;2-86885-028-6
+607;D'encre et de sang;Henri Beauqueney;2-902484-00-3
+608;Ermarindor : poèmes;Simone de Carfort;2-268012-94-8
+609;Blanche nuit, et autres poèmes;Simone de Carfort;2-268-01293-X
+610;La dame au béret bleu;Erie Well;2-9505962-0-7
+611;L'épitaphe à ton slip dactylographe;Éric Delord;2-909560-03-1
+612;Carmen inaugurationis ad usum delphinae;André Mathieu;2-909560-04-X
+613;Un été moderne;Nathalie Mauffroy;2-909560-05-8
+614;Le jardin mercuriel;Teckindham;2-909560-06-6
+615;Le facteur à bicyclette;Jean-Marie Montfeuillard;2-907261-23-1
+616;Et juste l'effleurement;Christine Delcourt;2-85675-0158-6
+617;L'abominable;Pierre Charmoz;2-86807-027-2
+618;Meurtritude africaine : roman;Éric Pélisson;2-7164-0208-3
+619;Carnavals;Roger Legallet;2-7164-0209-1
+620;Hegel par lui-même;Jean-Pierre Lucciardi;2-901351-04-2
+621;Le jeune homme et la mer : contes et poèmes;Raymond Leques;2-909082-07-5
+622;Une saison de feu;Nathalie Prou;2-907046-04-7
+623;Kariole Feest;Vincent Bartolone;2-907365-59-2
+624;L'enfant du désordre;Rosamunde;2-907365-67-3
+625;L'enfant à la dérive;Rémy Courrault;2-840-76005-3
+626;Oui, je me léverai;Denise Diala;2-900842-51-4
+627;Suds;Philippe Pujas;2-905618-54-10
+628;Brins d'illes;Yolande Vidal;2-85675-0160-6
+629;Le grand âge;Pierre Pachet;2-86853-158-X
+630;Regards;Jacques Blanchard;2-906622-05-2
+631;Spicules et masques d'ambroisie;Silvaine Arabo;2-905618-56-6
+632;L'eau vive : poèmes;Marguerite-Marie Debout;2-907365-83-5
+633;Traces;Jean Rousselot;2-909865-05-3
+634;Égérie;André Mathieu;2-909560-27-9
+635;Sens des vues privées;Robert Tree;2-909560-25-2
+636;La femme où j'ai mal;Paul Dakeyo;2-87693-028-5
+637;Impacts de foudre;Didier Manyach;2-909560-26-0
+638;La maison qui n'oublie pas;Patrick Burgel;2-85707-581-2
+639;Le nouveau Golem;Rémy Chauvin;2-268-01512-2
+640;Sourire : mode d'emploi;Patrick Bertato;2-86898-053-8
+641;Frédéric ou L'amour inachevé;Willy Marceau;2-87331-017-0
+642;La bonne adresse;Marc Camoletti;2-7349-0098-X
+643;Gageure amoureuse : récit;Guy Loeser;2-907055-26-7
+644;Fables et contes flamands;Jean Sadyn;2-907365-89-4
+645;Le casque colonial : roman;Bernard Laffin;2-9508097-0-7
+646;Les mystères de Dionysos : pièce en quatre actes et un prologue;Rémy Fourdin;2-9503081-7-1
+647;Catherine Sévère;François Thomas;2-226-06545-8
+648;Croqueloup;Edmond Brassier;2-902894-89-9
+649;Hommes et femmes : l'identité relationnelle de l'être humain;Nicole Chopelin;2-85317-049-7
+650;Natales;Sparkenbroke;2-910485-06-4
+651;Évidence;Max Trotz;2-910485-02-1
+652;Les gens de Wassy;Michelle loi;2-87825-073-7
+653;La lyre de rubis;Teckindham;2-909560-31-7
+654;Le remembrement rural;Michel Marinier;2-9508313-0-3
+655;Mécanismes naturels : essai de physique fondamentale...;Robert Rangolle;2-9508289-0-6
+656;Roman d'un grognard;Michel Loosen;2-907568-26-4
+657;Les enquêtes de l'inspecteur Lenoir. : Les marais maudits;Isabelle Hensse;2-907568-28-0
+658;Schizophrénie. II;Josy Nolleau;2-85443-273-8
+659;Blues pour Mary Jane;Paul Couturiau;2-268-01601-3
+660;Femme rouge sous le givre;Gilles Maroué;2-905598-36-0
+661;Les inspirations du disciple;par Rudy de Sirius;2-910519-19-8
+662;Plein d'amour et d'angoisse;Marcel Triaire;2-87825-084-2
+663;Des enfants de coeur : comédie en trois actes;François Campaux;2-7349-0110-2
+664;Le secret de Corinne;Marcel Triaire;2-87825-077-X
+665;La liaison du Carnaval;Gérard Deligny;2-907568-42-6
+666;La mine bleue...;Marie-Noëlle Grimaud;2-7373-1638-3
+667;Esotérisme : clefs opératives vérifiées...;J. Breyer;2-86395-009-6
+668;Le miroir des ombres;Noëlle Gombert;2-909907-07-4
+669;Danger d'enfance;Agnès Godès;2-86352-105-5
+670;Coeur diésel;Pierre Rannou;2-910485-14-5
+671;La vie au purgatoire : récit;Michel-P. Hamelet;2-86476-421-0
+672;A la vie, à l'amour! : roman;Pierre Busenhardt;2-901952-16-X
+673;Digressions caractérisées : pyroman;Ghislain Ripault;2-901952-15-1
+674;Le châtiment de saint Louis;Jacques Cantou;2-7301-0085-7
+675;Le second coeur de Dieu : roman;Jean-Pierre Liegibel;2-268-01924-1
+676;Poèmes;Thierry Verderosa;2-905094-43-5
+677;L'huître se rétracte au citron;Guy Valensol;2-910402-04-5
+678;Théorèmes poétiques;Basarab Nicolescu;2-268-01860-1
+679;Contes et légendes de l'étang de Thau;Michel Bonnaventure;2-906334-33-2
+680;Hubert ou comment l'homme devient rose;Christiane St Pierre;2-7600-0265-9
+681;Assis dans la barque : poésies;Nicolas Kurtovitch;2-84170-008-9
+682;Voyage organisé;Jean Fouquet;2-7164-0230-2
+683;La visite au tombeau de mes ancêtres : fictions;Sylvain Jouty;2-910481-03-4
+684;Un beau soir sans pudeur : roman;Paul Verguin;2-909997-31-6
+685;Le pirate;Sélim Foued;2-909997-29-4
+686;Le temps d'un rêve;Jean Dautan;2-87744-122-9
+687;Prier comme on respire;frère Achile Degeest,...;2-7122-0514-6
+688;Fleur ou femme : poésie;Paul E. Thébeau;2-9804031-0-5
+689;Ma différence : poèmes;Nathalie Nechtschein...;2-9506737-0-8
+690;Shylock;Jean Sadyn;2-907-568-66-3
+691;Un pommier fendu, peut-être;Jean-Marie Desfossez;2-907568-55-8
+692;Passion d'avril;Jean-Luc Lécaillé;2-9508804-1-X
+693;Les battitures;Yvon Régin;2-901727-09-3
+694;On ne meurt pas seul;frère Achille Degeest,...;2-7122-0554-5
+695;C'était un village en 1950;Jacques Cousin;2-84231-005-5
+696;Cosmos;Jean Sadyn;2-907568-71-X
+697;Carnets de voyage;Chantal Travers;2-84094-168-6
+698;Heurts du temps;Edgard de Larminat;2-907055-35-6
+699;Mea culpa;Jean-Pierre Bertotti;2-84094-166-X
+700;Carton rouge : nouvelles;Virgile Puech;2-908610-09-4
+701;Herbalies;Constantin de Chardonnet;2-86476-435-0
+702;Le temps recousu : poèmes;Simone Dufay;2-86476-437-7
+703;Florilège : poèmes;Barbara Politi, Pierre Zappa;2-7301-0097-0
+704;Les fers à repasser;Édith Mannoni;2-7072-0257-6
+705;Sables : chronique;Aurélien Dauguet;2-910039-30-7
+706;L'éternité plus une voix;Emmanuel Berland;2-911706-00-5
+707;De malice, d'amour et d'eau claire;Paul-Raymond Foucaud;2-84094-171-6
+708;Fragiles certitudes : poèmes;Jean Lebot;2-85480-537-2
+709;Les îles sont des rivages de sel;Alain Richer;2-90691211-5
+710;Dieu où est ta vérité ?;Pierre Taylou;2-910733-04-1
+711;La bête magnifique ou Les crâneurs;Jean Couillens;2-7121-0181-2
+712;Filigranes;Margo Ohayon;2-909264-22-X
+713;Les nouveaux dieux;Jean Sadyn;2-907568-92-2
+714;Fieffé rêveur;Christian Bulting;2-906655-79-1
+715;Quai des mariniers;Michel Bourçon;2-911315-09-X
+716;L'étoile Napoléon;Geneviève Gennari;2-268-01973-X
+717;Camisole;Gérald Moreau;2-268-02013-4
+718;Prière du jour;Didier Periz;2-908799-29-4
+719;Les guetteurs de lumière : roman;Henri Demay;2-907261-68-1
+720;À tire d'aile : poèmes;Pierre Godo;2-86476-447-4
+721;Contes et nouvelles pour vieux enfants à plume d'oie;Muriel Hibernie;2-86476-449-0
+722;Pour Jean Genet : une plaidoirie imaginaire;Laurence Lautrette,...;2-910599-00-0
+723;Hymen : poésie;Bernard Granier;2-908610-11-6
+724;La correctrice : roman;David Nahmias;2-268-02056-8
+725;Passage Bourgoin;[textes et dessins de] Georges Lemoine;2-9509599-0-3
+726;Courts-circuits;Jacques Canut;2-85675-0189-6
+727;Le temps retenu;Madeleine Lenoble;2-85792-098-9
+728;Du coq à l'âne : poésie;Christian Tarroux;2-908610-20-5
+729;Album : poèmes;Andrée Marik;2-906912-13-1
+730;Le chasseur;Urban G. Aeck;2-268-01961-6
+731;Zone interdite : nouvelles;Julien Vartet;2-268-02436-9
+732;Le chant des amants;Jean Dauby;2-85675-190-6
+733;La solution finale;Richard Nollier;2-268-02177-7
+734;Le fils du charcutier;René Charnay;2-268-02305-2
+735;Vincent au jardin;Philippe Delannoy;2-268-01861-X
+736;Ma femme me quitte;Didier Kaminka;2-268-02216-1
+737;Le monde d'en face : [nouvelles];Michel Bulteau;2-268-02225-0
+738;Pour un paysage blanc;Jean Caseau;2-902032-11-0
+739;L'aube Ismaël : louange;Mohammed Dib;2-9509846-0-6
+740;Et nous dirons oui au monde : roman;Jacqueline Dana;2-259-18500-2
+741;Suite pour un no man's land;Patrick Joquel;2-911315-11-1
+742;Venise au Carnaval : poèmes;Geneviève Arnott;2-84285001-7
+743;Le mystère du château en Ardennes;Yvonne Reisse;2-907568-99-X
+744;Une passée de paroles;Yves-Jacques Bouin...;2-911315-13-8
+745;La chanteuse voilée;Yvonne Reisse;2-84285-006-8
+746;L'autre en velours;Alain Souissa;2-84328-008-7
+747;À grands coups de braise;Philippe Leborgne;2-84328-000-7
+748;Oeil de jade à tiroirs;Sébastien de Lamberterie...;2-84328-007-9
+749;Il y a des nuits : roman;Alain-Gilles Minella;2-268-02579-9
+750;Dieu attendait;Christiane de La Hamonnaye;2-7051-0322
+751;La tentation de Ludovic Stroke;André Giovanni;2-268-01773-7
+752;Un sacré remue-méninges;Marc Louste;2-9508151-8-9
+753;Nouvelles du bric-à-brac;Marc Louste;2-9508151-4-6
+754;Vénusverb';Marc Louste;2-9508151-9-7
+755;Écrits, et cris, crie !;Marc Louste;2-9508151-7-0
+756;Humour et fantasmes flamands;Jean Sadyn;2-84285-020-3
+757;Buenos Aires, au coeur;Georges Orsoni;2-906928-07-0
+758;Pensées réfléchies;Laurent Benzacken;2-950330-62-2
+759;Vouvous : comédie;Jean Guenot;2-85405-072-X
+760;Treizième pilier. comédie;Jean Guenot;2-85405-073-8
+761;Échecs et mat;Colette Guy;2-9503306-4-9
+762;Totem;Nicolas Kurtovitch;2-84170-036-4
+763;Cybersex : et autres nouvelles...;Pierre Bourgeade;2-911621-09-3
+764;Désir : roman;Sélim Foued;2-911621-08-5
+765;Magnificat;José Cabanis;2-907530-33-X
+766;Hors du bocal;Albane Gellé;2-912163-01-3
+767;Couguars;Nicolas Florence;2-243-03636-3
+768;Le rhododendron : roman;Florence Esposito;2-911670-02-7
+769;Aux arcs de glace;Francine Charron;2-243-03655-X
+770;À force d'absence : poèmes;Marcel Sandras;2-9512088-0-4
+771;Gants de griffes;Guy André Régis;2-9511199-0-9
+772;L'explorateur d'épaves;Denys-Paul Bouloc;2-912470-04-8
+773;Les bretteurs;Danielou Rejenski;2-86913-097-X
+774;La nuit irrésolue : roman;Pierre Notte;2-903911-59-2
+775;Les flots amers;Marie-Françoise Godey;2-905410-02-7
+776;Pierres levées : poèmes;Hubert Arger;2-86476-477-6
+777;La tour foudroyée : roman;Julien Jerkinos;2-9512277-1-1
+778;Corps gisant, lisse et nu;Roch-Gérard Salager;2-910063-56-9
+779;Éléonore : roman;Valérie Valère;2-84100-145-8
+780;Le temps tout court;Clara Calvet;2-85197-220-0
+781;Oeuvre poétique;Philippe David Assayah;2-7164-0254-X
+782;Trafiquant d'âmes;Hervé Durand;2-84295-019-4
+783;Mademoiselle Le Cubin;Félix Wolmark;2-84304-047-7
+784;Acteurs d'espoir;Karine Cailleux;2-87825-165-2
+785;Poussières de vie;Frédérique Jaumouillé;2-86913-103-8
+786;Itinéraire bis;Jeanine Huas;2-903911-61-4
+787;La femme perpendiculaire : [nouvelles];Nicolas Bluche;2-84273-043-7
+788;Un octogénaire plantait : divertissement;Pierre Chabert;2-243-03700-9
+789;Réflexions utopiques d'un être envahi par ses pensées destructives;Tony;2-9510779-0-4
+790;Peuget;Jean Robert;2-84273-053-4
+791;Les instruments du doute : poèmes;Suzanne Sauvanaud;2-908799-43-X
+792;Magnificat : témoignages;José Cabanis;2-907530-35-6
+793;Guipure et Manille;Daniel Percheron;2-84304-079-5
+794;Mont-Blanc;René Rougeron;2-268-00600-X
+795;Clair de terre;Hubert Dinvaux;2-86476-487-3
+796;Casanovaches;Jacques Hubert;2-913506-03-8
+797;René de La Chambeaudie;Louis Loubignac;2-913506-04-6
+798;Deuch, la p... irrespectueuse : conte;Robert Soustre;2-84451-012-4
+799;Alexandrine;Alexia Lagalisse;2-7301-0134-9
+800;Mansfield, Ohio : roman;Marc Kerzual;2-7158-1299-X
+801;A la découverte des gouffres de La Pierre-Saint-Martin;Jean-François Pernette;2-85302-081-9
+802;Technique de l'aérographie : ou comment peindre avec l'air;D. Mulhem, B. Peignieux;2-85182-063-X
+803;Credo pour aujourd'hui;textes Albéric de Palmaert...;2-21500640-4
+804;Librement;Bernard Tapie;2-266-09077-1
+805;Soyez votre premier médecin : la santé en famille;Dr Hervé Boissin;2-84098-495-4
+806;L'Ascenseur électrique : comédie en 3 actes [Paris, Théâtre de la Renaissance, 12 nov. 1969];Julien Vartet;2-7349-0032-7
+807;Jacques Brel : le livre du souvenir;par Martin Monestier;2-7107-0143-X
+808;Woody Allen : Au delà du langage;Robert Benayoun;2-7335-01046
+809;Lady Madonna;Guy et Danièle Abitan;2-86418-290-4
+810;Qui es-tu ? Stéphanie;Rodolphe Hassold;2-86864-410-7
+811;L'Enfant dans l'image : les gens d'images, Colloque de Rully;sous la dir. de Jean-Paul Gourevitch;2-7256-12179
+812;Charles Chaplin;Pierre Leprohon;2-906284-95-5
+813;Jean Renoir;par Pierre Haffner;2-86930-113-8
+814;En ce visage l'avenir;Hélène Cadou;2-903108-046
+816;Poète prends ton luth : abrégé d'art poétique;Hermine Vénot-Focké;2-902-312-78-4
+817;Le grand secret;Jean-Olivier Héron;2-909421-01-5
+818;Poèmes;Andrée Buchet;978-2-35157-436-2

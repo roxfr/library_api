@@ -1,0 +1,73 @@
+# Environnements virtuels
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Fichiers de configuration
+*.env
+config.py
+instance/
+*.cfg
+*.ini
+
+# Fichiers Python compilés
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Caches d'outils
+*.mypy_cache/
+*.pytest_cache/
+.coverage
+
+# Dossiers de logs
+logs/
+*.log
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Bases de données locales (SQLite, etc.)
+*.db
+*.sqlite3
+
+# Fichiers générés par Jupyter Notebook
+.ipynb_checkpoints/
+
+# Fichiers générés par l'IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Fichiers de distribution
+dist/
+build/
+*.egg-info/
+
+# Ignorer les dossiers de déploiement (par exemple, Heroku)
+*.heroku/
+Procfile
+
+# Caches de gestionnaires de paquets
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignorer les fichiers spécifiques à certains systèmes d'exploitation
+.DS_Store
+Thumbs.db
+
+# Ignorer les fichiers temporaires et de swap
+*.swp
+*.swo
+*~
+
+# Certificats SSL générés (si vous utilisez Flask pour le développement avec HTTPS)
+cert.pem
+key.pem
